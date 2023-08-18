@@ -1,0 +1,6 @@
+- name: Straw Hats
+  maxsize: 10
+  cause: Freedom
+- name: Marines
+  maxsize: 20
+  cause: Justice

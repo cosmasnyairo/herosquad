@@ -1,0 +1,10 @@
+- name: Luffy
+  age: 20
+  specialpower: Imagination
+  weakness: water
+  powerLevel: 90
+- name: Koby
+  age: 21
+  specialpower: Honesty
+  weakness: fire
+  powerLevel: 70
